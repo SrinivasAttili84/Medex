@@ -1,0 +1,35 @@
+{
+  "labels": ["John", "Nathan", "Albert", "Chris", "Jay"],
+
+  "datasets": [
+    {
+      "backgroundColor": "#e17e7e",
+      "data": [4, 0, 0, 4, 0]
+    },
+    {
+      "backgroundColor": "#6f9f60",
+      "data": [4, 3, 0, 5, 8]
+    },
+    {
+      "backgroundColor": "orange",
+      "data": [4, 0, 3, 0, 2]
+    }
+  ],
+  "featuresData": [
+    {
+      "title": "Bugs by state & Assignment",
+      "features": "Features 19",
+      "notes": [
+        {
+          "title": "Completed","color":"red"
+        },{
+          "title": "on Hold","color":"red"
+        },{
+          "title": "Not Done","color":"red"
+        },{
+          "title": "19","color":"red"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[{
+    "firstName": "John",
+    "lastName": "Peter",
+    "email": "John.Peter@gmail.com",
+    "type": "Technical Lead"
+},
+{
+    "firstName": "Rachel",
+    "lastName": "Lawrence",
+    "email": "Rachel.Lawrence@gmail.com",
+    "type": "Technical Lead"
+},
+{
+    "firstName": "Vinay",
+    "lastName": "Reddy",
+    "email": "Vinay.Reddy@gmail.com",
+    "type": "Technical Lead"
+},
+{
+    "firstName": "Arun",
+    "lastName": "Singh",
+    "email": "Arun.Singh@gmail.com",
+    "type": "Technical Lead"
+}
+]

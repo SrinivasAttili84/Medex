@@ -1,0 +1,81 @@
+{
+  "doughnutLevel": ["Sales", "Store", "Mail Sales"],
+  "doughnutDatasets": [
+    {
+      "data": [600, 100,  300],
+      "backgroundColor": ["#e17e7e", "orange", "#6f9f60"]
+    }
+  ],
+  "featuresData": [
+    {
+      "title": "Reuirement Coverage",
+      "features": "Features 19",
+      "notes": [
+        {
+          "title": "Completed","color":"red"
+        },{
+          "title": "on Hold","color":"red"
+        },{
+          "title": "Not Done","color":"red"
+        }
+      ]
+    },
+    {
+      "title": "Traceability",
+   
+      "notes": [
+        {
+          "title": "Completed","color":"red"
+        },{
+          "title": "on Hold","color":"red"
+        },{
+          "title": "Not Done","color":"red"
+        }
+      ]
+    },
+    {
+      "title": "Risk Assessment",
+      "features": "Features 19",
+      "notes": [
+        {
+          "title": "Completed","color":"red"
+        },{
+          "title": "on Hold","color":"red"
+        },{
+          "title": "Not Done","color":"red"
+        }
+      ]
+    },
+    {
+      "title": "Quality Traceability",
+      "features": "Features 89",
+      "notes": [
+        {
+          "title": "Completed","color":"red"
+        },{
+          "title": "on Hold","color":"red"
+        },{
+          "title": "Not Done","color":"red"
+        }
+      ],
+      "PassPercentage":"Pass Percentage",
+      "endTitle": "96.62%"
+    },
+    {
+      "title": "Bugs By state",
+   
+      "complete": "Complete",
+      "notes": [
+        {
+          "title": "Completed","color":"red"
+        },{
+          "title": "on Hold","color":"red"
+        },{
+          "title": "Not Done","color":"red"
+        }
+      ],
+      "PassPercentage":"Pass bugs",
+      "endTitle": "19"
+    }
+  ]
+}

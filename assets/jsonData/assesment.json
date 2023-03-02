@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "question": "What is your current software development methodology? ",
+    "answer": [
+      {
+        "a": "Waterfall",
+        "b": "Water-Scrum-Fall",
+        "c": "Agile",
+        "d": "Mix of waterfall and Agile"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the frequency of your software releases?  ",
+    "answer": [
+      {
+        "a": "Weekly",
+        "b": "Monthly",
+        "c": "Quarterly",
+        "d": "On Demand"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": " Do you have a separate DevOps team in your organization? ",
+    "answer": [
+      {
+        "a": "No",
+        "b": "Some play devOps Engineer within team",
+        "c": "Fully Staffed devOps team",
+        "d": "Not Applicable"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": " Are your build and deployment processes fully automated? ",
+    "answer": [
+      {
+        "a": "Nothing is automated",
+        "b": "Build is Automated,Release is not",
+        "c": "Only test is automated",
+        "d": "Both Build and Release automated"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "When are developers notified of a broken build? ",
+    "answer": [
+      {
+        "a": "Never",
+        "b": "Whenever the build is triggered",
+        "c": "When code is committed",
+        "d": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": " Do you use any Continuous Integration(CI) tool to orchestrate your builds?",
+    "answer": [
+      {
+        "a": "Yes",
+        "b": "No",
+        "c": "",
+        "d": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": " How would you scale up your QA infrastructure during Testing?",
+    "answer": [
+      {
+        "a": "Dependant on IT team",
+        "b": "We do oursel",
+        "c": "Leverage Cloud based infra",
+        "d": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": " Are your testing processes integrated with CI/CD pipelines?  ",
+    "answer": [
+      {
+        "a": "No, We have separate set up for Testing",
+        "b": "Only Manual testing",
+        "c": "Automated testing triggered",
+        "d": "Fully automatic testing and reporting"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": " Do you use containers during your development, testing or deployment stages? ",
+    "answer": [
+      {
+        "a": "No",
+        "b": "Yes, we do containers",
+        "c": "",
+        "d": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": " Are you able to monitor your Infrastructure and capture the Logs for failures and get alerted?",
+    "answer": [
+      {
+        "a": "No",
+        "b": "Yes, But no Alert mechanism",
+        "c": "Yes, we have alert mechanism too",
+        "d": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "What is your Mean time to Failure (MTTF) and Mean time to Restore (MTTR ",
+    "answer": [
+      {
+        "a": "We don’t track it",
+        "b": "Yes, But not effective",
+        "c": "Yes, we are very focused on it",
+        "d": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": " What is your Pain Area?",
+    "answer": [
+      {
+        "a": "Continuous Integration",
+        "b": "Quality",
+        "c": "Infrastructure",
+        "d": ""
+      }
+    ]
+  }
+]
